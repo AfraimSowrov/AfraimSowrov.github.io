@@ -1,6 +1,6 @@
 # Robotics & Automation Portfolio
 
-Portfolio of K. M. Afraim Shams Sowrov: embedded systems, autonomous systems and intelligent sensing.
+Portfolio of K. M. Afraim Shams Sowrov: UAVs, Embedded Systems, Autonomous Systems and Intelligent Sensing.
 
 Live site: https://afraimsowrov.github.io
 
